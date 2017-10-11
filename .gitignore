@@ -1,0 +1,13 @@
+Source/SBP.Application/bin/
+Source/SBP.Application/obj/
+Source/SBP.Domain.SharedKernel/bin/
+Source/SBP.Domain.SharedKernel/obj/
+Source/SBP.Domain/bin/
+Source/SBP.Domain/obj/
+Source/SBP.Infra.CrossCutting.IoC/bin/
+Source/SBP.Infra.CrossCutting.IoC/obj/
+Source/SBP.Infra.Data/bin/
+Source/SBP.Infra.Data/obj/
+Source/SBP.Presentation.Api/bin/
+Source/SBP.Presentation.Api/obj/
+Source/SBP.Presentation.Api/Properties/PublishProfiles/

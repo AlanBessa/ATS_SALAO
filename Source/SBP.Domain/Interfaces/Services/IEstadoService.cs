@@ -1,0 +1,14 @@
+﻿using SBP.Domain.Entidades;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SBP.Domain.Interfaces.Services
+{
+    public interface IEstadoService
+    {
+        IEnumerable<Estado> ObterTodos();
+    }
+}
